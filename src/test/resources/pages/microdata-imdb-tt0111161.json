@@ -1,0 +1,50 @@
+[ {
+  "@context" : "http://schema.org",
+  "@type" : [ "http://schema.org/Movie" ],
+  "image" : [ "https://ia.media-imdb.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg", "https://images-na.ssl-images-amazon.com/images/M/MV5BNjQ2NDA3MDcxMF5BMl5BanBnXkFtZTgwMjE5NTU0NzE@._V1_CR0,60,640,360_AL_UX477_CR0,0,477,268_AL_.jpg" ],
+  "creator" : [ {
+    "@type" : [ "http://schema.org/Person" ],
+    "name" : [ "Stephen King" ],
+    "url" : [ "http://www.imdb.com/name/nm0000175/?ref_=tt_ov_wr" ]
+  }, {
+    "@type" : [ "http://schema.org/Person" ],
+    "name" : [ "Frank Darabont" ],
+    "url" : [ "http://www.imdb.com/name/nm0001104/?ref_=tt_ov_wr" ]
+  } ],
+  "director" : [ {
+    "@type" : [ "http://schema.org/Person" ],
+    "name" : [ "Frank Darabont" ],
+    "url" : [ "http://www.imdb.com/name/nm0001104/?ref_=tt_ov_dr" ]
+  } ],
+  "description" : [ "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency." ],
+  "url" : [ "http://www.imdb.com/plugins?titleId=tt0111161&ref_=tt_plg_rt", "http://www.imdb.com/plugins?titleId=tt0111161&ref_=tt_plg_rt" ],
+  "trailer" : [ "http://www.imdb.com/video/imdb/vi3877612057?playlistId=tt0111161&ref_=tt_ov_vi" ],
+  "datePublished" : [ "1995-03-23", "1 day ago", "4 days ago", "6 days ago" ],
+  "duration" : [ "PT142M" ],
+  "actors" : [ {
+    "@type" : [ "http://schema.org/Person" ],
+    "name" : [ "Tim Robbins" ],
+    "url" : [ "http://www.imdb.com/name/nm0000209/?ref_=tt_ov_st_sm" ]
+  }, {
+    "@type" : [ "http://schema.org/Person" ],
+    "name" : [ "Morgan Freeman" ],
+    "url" : [ "http://www.imdb.com/name/nm0000151/?ref_=tt_ov_st_sm" ]
+  }, {
+    "@type" : [ "http://schema.org/Person" ],
+    "name" : [ "Bob Gunton" ],
+    "url" : [ "http://www.imdb.com/name/nm0348409/?ref_=tt_ov_st_sm" ]
+  } ],
+  "provider" : [ "BuzzSugar", "Variety - TV News", "Gold Derby" ],
+  "awards" : [ "Nominated for 7 Oscars.", "Another 19 wins & 32 nominations." ],
+  "genre" : [ "Crime", "Drama" ],
+  "name" : [ "Sueños de libertad (1994)" ],
+  "contentRating" : [ "16" ],
+  "aggregateRating" : [ {
+    "@type" : [ "http://schema.org/AggregateRating" ],
+    "ratingValue" : [ "9.3" ],
+    "reviewCount" : [ "5,271 user", "215 critic" ],
+    "ratingCount" : [ "1,936,575" ],
+    "bestRating" : [ "10" ]
+  } ],
+  "headline" : [ "Every Movie and TV Show Leaving Netflix in April 1 day ago | BuzzSugar", "What’s Leaving Netflix in April 2018 4 days ago | Variety - TV News", "Netflix schedule: Here’s what is coming and leaving in April 2018 6 days ago | Gold Derby" ]
+} ]

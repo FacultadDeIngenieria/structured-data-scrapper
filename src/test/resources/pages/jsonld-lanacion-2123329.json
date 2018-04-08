@@ -1,0 +1,11 @@
+{
+    "@context" : "http://schema.org",
+    "@type" : "NewsArticle",
+    "headline" : "Máxima tensión en Brasil: venció el plazo para que Lula se entregue",
+    "url" : "https://www.lanacion.com.ar/2123329-a-una-hora-de-que-venza-el-plazo-para-entregarse-habla-lula",
+    "thumbnailUrl" : "//bucket2.glanacion.com/anexos/fotos/84/2661184.jpg",
+    "articleSection" : "El Mundo",
+    "dateCreated" : "06/04/2018 03:39:00 p.m.",
+    "creator" : [ "" ],
+    "keywords" : [ "Lula da Silva", "El mundo", "Lula ante la Justicia" ]
+}

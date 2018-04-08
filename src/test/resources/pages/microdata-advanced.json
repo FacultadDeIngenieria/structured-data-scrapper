@@ -1,0 +1,14 @@
+[ {
+    "@context" : "http://schema.org",
+    "@type" : [ "http://schema.org/Review" ],
+    "author" : [ "Axel Kuschevatzky" ],
+    "datePublished" : [ "2012-04-15" ],
+    "name" : [ "Best movie ever!" ],
+    "description" : [ "Awesome!" ],
+    "reviewRating" : [ {
+        "@type" : [ "http://schema.org/Rating" ],
+        "bestRating" : [ "5" ],
+        "ratingValue" : [ "4" ],
+        "worstRating" : [ "1" ]
+    } ]
+} ]

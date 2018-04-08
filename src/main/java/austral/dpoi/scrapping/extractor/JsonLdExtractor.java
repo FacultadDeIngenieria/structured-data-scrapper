@@ -7,10 +7,13 @@ import java.util.Optional;
 
 public class JsonLdExtractor implements Extractor {
 
-  @Override
-  public Optional<String> scrap(final Document document) {
+  @Override public Optional<String> scrap(final Document document) {
+    return findJsonLdScript(document).map(Element::data);
+  }
+
+  private Optional<Element> findJsonLdScript(Document document) {
     final Element element = document.selectFirst("script[type=application/ld+json]");
-    return Optional.ofNullable(element).map(Element::data);
+    return Optional.ofNullable(element);
   }
 
 }
